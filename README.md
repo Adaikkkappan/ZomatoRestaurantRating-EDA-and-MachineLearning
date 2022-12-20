@@ -42,3 +42,7 @@ This is a Repository of Final Project
  - Our machine learning algorithm will able to predict the restaurant rating.
 
  - Based upon the analysis of the result, we can suggest the restaurant owners to improve the service type and what type of cuisines need to be provided and what type of dishes need to be included in the menu.
+
+### Note:
+ - For the Detailed Information about the Project, Kindly refer the "Zomato Restaurant Rating EDA and ML Project.pdf" file attached with this Repo.
+ - For the Tableau Project, Kindly refer the "Zomato Data Analysis Tableau Project.pdf" file attached with this Repo.
