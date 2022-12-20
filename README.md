@@ -43,6 +43,6 @@ This is a Repository of Final Project
 
  - Based upon the analysis of the result, we can suggest the restaurant owners to improve the service type and what type of cuisines need to be provided and what type of dishes need to be included in the menu.
 
-### Note:
+### Notes:
  - For the Detailed Information about the Project, Kindly refer the "Zomato Restaurant Rating EDA and ML Project.pdf" file attached with this Repo.
  - For the Tableau Project, Kindly refer the "Zomato Data Analysis Tableau Project.pdf" file attached with this Repo.
